@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+img, button {
+    display: block;
+}
+
+body {
+    background-color: #E1DAE4;
+    min-height: 100vh; 
+    font-family: "Graphik Trial";
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
