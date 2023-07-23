@@ -1,0 +1,18 @@
+header {
+    margin-bottom: 42px;
+}
+
+header h1 {
+    font-size: 28;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #270D2E;
+}
+
+header p {
+    font-size: 14px;
+    text-align: right;
+    color: #5F3F67;
+    letter-spacing: 0.5px;
+}
