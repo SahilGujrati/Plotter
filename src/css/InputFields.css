@@ -1,0 +1,45 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+label {
+    font-size: 21px;
+    margin-right: 15px;
+    font-family: "Graphik Trial";
+    color: #270D2E;
+}
+
+.inputWrapper {
+    margin-bottom: 23px;
+}
+
+input {
+    height: 34px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border: none;
+    border-radius: 5px;
+    width: 192px;
+    background-color: #D5B6E4;
+    color: #5F3F67;
+    font-size: 20px;
+}
+
+input:focus {
+    border: 1px solid #5F3F67;
+}
+
+button {
+    width: 100%;
+    margin-top: 26px;
+    border: none;
+    border-radius: 5px;
+    font-family: "Graphik Trial";
+    font-size: 24px;
+    font-weight: 600;
+    padding: 6px 0;
+    background-color: #7D23A9;
+    color: #EBEBEB;
+}
