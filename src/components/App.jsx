@@ -4,10 +4,10 @@ import PlottingCanvas from './PlottingCanvas.jsx'
 
 function App() {
     return (
-        <>
+        <div className="wrapper">
             <Operations />
             <PlottingCanvas /> 
-        </>
+        </div>
     )
 }
 
