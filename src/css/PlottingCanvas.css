@@ -1,0 +1,9 @@
+#plottingCanvas {
+    background-color: #fff;
+    border-radius: 18px;
+    box-shadow: -2px 2px 4px #eac9fd;
+    padding: 28px;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-crisp-edges;
+    /*transform: rotate(-90deg);*/
+}
