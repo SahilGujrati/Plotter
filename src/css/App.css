@@ -18,3 +18,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transform: translateY(-5px);
+}
